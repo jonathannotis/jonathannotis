@@ -6,7 +6,7 @@ I am a high school student interested in studying computer science and English.
 
 ## Projects
 
-- [Portfolio Website](https://github.com/jonathannotis/portfolio-website)
+- [Portfolio Website](https://www.jonathannotis.com)
 - [Webstarterkit CLI](https://github.com/jonathannotis/web-starterkit-cli)
 - [NFL Machine Learning](https://github.com/jonathannotis/nfl-player-success-ml)
 - [Raider Reads Website](https://www.raiderreads.com)
