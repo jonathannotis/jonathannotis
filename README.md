@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a high school student interested in studying computer science and English. 
+I'm a first year student at the University of Virginia interested in computer science and commerce.
 
 ## Projects
 
