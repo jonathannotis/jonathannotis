@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a first year student at the University of Virginia interested in computer science and commerce.
+I'm a second year student at the University of Virginia studying in math and computer science.
 
 ## Projects
 
