@@ -6,7 +6,6 @@ I'm a second year student at the University of Virginia studying in math and com
 
 ## Projects
 
-- [Portfolio Website](https://jonathannotis.vercel.app)
 - [Webstarterkit CLI](https://github.com/jonathannotis/web-starterkit-cli)
 - [NFL Machine Learning](https://github.com/jonathannotis/nfl-player-success-ml)
 
