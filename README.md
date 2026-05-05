@@ -11,5 +11,4 @@ I'm a second year student at the University of Virginia studying in math and com
 
 ## Contact Me
 
-- Email: jrnotis@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/jonathannotis/](https://www.linkedin.com/in/jonathannotis/)
